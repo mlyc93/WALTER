@@ -1,6 +1,6 @@
 # WALTER: web-based toolset for terminal restriction fragments (TRF) scan analysis, version of May 2020
 REQUIREMENTS TO RUN THE SOFTWARE:
-- any web browser (toolset was tested for Internet Explorer ver. 11.0.185, Microsoft Edge ver. 81.0.416.58, Firefox ver 75.0, chrome-based browsers (Chromium ver. 62.0.3202.75, Vivaldi ver. 3.0.1874.38))
+- any web browser (the toolset was tested on Internet Explorer ver. 11.0.185, Microsoft Edge ver. 81.0.416.58, Firefox ver 75.0 and chrome-based browsers (Chromium ver. 62.0.3202.75, Vivaldi ver. 3.0.1874.38))
 
 If you are thinking about improvements of our toolset, we would appreciate your feedback and ideas, so please feel free to contact us at: 408297@mail.muni.cz
 
