@@ -7,5 +7,4 @@ If you are thinking about improvements of our toolset, we would appreciate your 
 For interested developers, the depository contains .R files and other necessary files to to execute the code locally, otherwise the TOOLSET, along with MANUAL and DEMO FILES is available at: 
 https://www.ceitec.eu/chromatin-molecular-complexes-jiri-fajkus/rg51/tab?tabId=125#WALTER
 
-LICENSING INFORMATION:
-WALTER Toolset uses GNU Affero General Public License v3.0.
+LICENSING INFORMATION: WALTER Toolset uses GNU Affero General Public License v3.0.
