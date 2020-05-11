@@ -1,4 +1,5 @@
 # WALTER: web-based toolset for terminal restriction fragments (TRF) scan analysis, version of May 2020
+WALTER is a web-based toolset for terminal restriction fragments (TRF) scan analysis. It is consisted of two tools: ScanToIntensity and IntensityAnalyser. ScanToIntensity tool is able to convert selected areas of TRF scan into intensity profiles while IntensityAnalyser tool analyses the resultant file from ScanToIntensity to provide a boxplot or a violin plot depiction of said profiles with a possible statistical analysis.
 REQUIREMENTS TO RUN THE SOFTWARE:
 - any web browser (the toolset was tested on Internet Explorer ver. 11.0.185, Microsoft Edge ver. 81.0.416.58, Firefox ver 75.0 and chrome-based browsers (Chromium ver. 62.0.3202.75, Vivaldi ver. 3.0.1874.38))
 
