@@ -1,0 +1,93 @@
+---
+title: "IntensityAnalyser report"
+output: html_document
+params:
+  marker_table: NA
+  sensitivity_value: NA
+  polynomial_value: NA
+  sample_table: NA
+  boxplot_table: NA
+  recalculated_table: NA
+  groups_table: NA
+  mean_groups_table: NA
+  used_test: NA
+  significance_table: NA
+
+---
+
+```{r}
+# Sensitivity setting of the peak maxima finding for the marker specification (in case of the marker correction settig, the second value correspond to the second marker)
+```
+```{r, echo=FALSE}
+params$sensitivity_value
+```
+
+```{r}
+# Table with the used marker values and the corresponding peak number
+```
+```{r, echo=FALSE}
+params$marker_table
+```
+
+```{r}
+# Selected order of the polynomial function for the analysis
+```
+```{r, echo=FALSE}
+params$polynomial_value
+```
+
+```{r}
+# Table with coordinates of each sample + information about Auto/Manual status and backround correction
+```
+```{r, echo=FALSE}
+params$sample_table
+```
+
+```{r}
+# Table with the values to reconstruct the boxplot
+```
+```{r, echo=FALSE, layout="l-body-outset"}
+library(rmarkdown)
+paged_table(params$boxplot_table)
+```
+
+```{r}
+# Table with recalculated values of mean, SD according to Wan et al. 2014
+```
+```{r, echo=FALSE, layout="l-body-outset"}
+library(rmarkdown)
+paged_table(params$recalculated_table)
+```
+
+```{r}
+# Table with the names of groups for statistical analysis
+```
+```{r, echo=FALSE}
+params$groups_table
+```
+
+```{r}
+# Table with recalculated values of mean, SD according to Cochrane Handbook for Systematic Reviews of Interventions v5.1.0
+```
+```{r, echo=FALSE, layout="l-body-outset"}
+library(rmarkdown)
+if(is.data.frame(params$mean_groups_table) == TRUE) {
+  paged_table(params$mean_groups_table)
+} else {
+params$mean_groups_table
+}
+```
+
+```{r}
+# Test used for the statistical evaluation
+```
+```{r, echo=FALSE}
+params$used_test
+```
+
+```{r}
+# Table with the statistical evaluation
+```
+```{r, echo=FALSE}
+params$significance_table
+```
