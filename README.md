@@ -6,9 +6,9 @@ Version of the software running on external server:
 - any web browser (the toolset was tested on Internet Explorer ver. 11.0.185, Microsoft Edge ver. 81.0.416.58, Firefox ver. 75.0 and chrome-based browsers (Chromium ver. 62.0.3202.75, Vivaldi ver. 3.0.1874.38))
 - internet connection <br />
 <p style="text-align: justify">Portable version of the software downloadable from the https://www.ceitec.eu/chromatin-molecular-complexes-jiri-fajkus/rg51/tab?tabId=125#WALTER website:</p>
-- Windows system (tested under Windows 10)
-- any web browser (the toolset was tested on Internet Explorer ver. 11.0.185, Microsoft Edge ver. 81.0.416.58, Firefox ver. 75.0 and chrome-based browsers (Chromium ver. 62.0.3202.75, Vivaldi ver. 3.0.1874.38))
-- internet connection
+<ul> Windows system (tested under Windows 10)
+<ul> any web browser (the toolset was tested on Internet Explorer ver. 11.0.185, Microsoft Edge ver. 81.0.416.58, Firefox ver. 75.0 and chrome-based browsers (Chromium ver. 62.0.3202.75, Vivaldi ver. 3.0.1874.38))
+<ul> internet connection
 
 If you are thinking about improvements of our toolset, we would appreciate your feedback and ideas, so please feel free to contact us: 408297@mail.muni.cz
 
