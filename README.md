@@ -3,10 +3,9 @@ WALTER is a web-based toolset for terminal restriction fragments (TRF) scan anal
 
 REQUIREMENTS TO RUN THE SOFTWARE: <br>
 Version of the software running on external server:
-Portable version of the software downloadable from the https://www.ceitec.eu/chromatin-molecular-complexes-jiri-fajkus/rg51/tab?tabId=125#WALTER website:
 - any web browser (the toolset was tested on Internet Explorer ver. 11.0.185, Microsoft Edge ver. 81.0.416.58, Firefox ver. 75.0 and chrome-based browsers (Chromium ver. 62.0.3202.75, Vivaldi ver. 3.0.1874.38))
 - internet connection <br>
-
+Portable version of the software downloadable from the https://www.ceitec.eu/chromatin-molecular-complexes-jiri-fajkus/rg51/tab?tabId=125#WALTER website:
 - Windows system (tested under Windows 10)
 - any web browser (the toolset was tested on Internet Explorer ver. 11.0.185, Microsoft Edge ver. 81.0.416.58, Firefox ver. 75.0 and chrome-based browsers (Chromium ver. 62.0.3202.75, Vivaldi ver. 3.0.1874.38))
 - internet connection
